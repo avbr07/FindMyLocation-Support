@@ -1,15 +1,12 @@
 # Find My Location — Support
 
-**Find My Location: GPS & Trips** tells you where you are, how fast you are going, how high you are,
-and what is worth stopping for nearby. It is available for iPhone and for Android.
+**Find My Location: GPS & Trips** for iPhone tells you where you are, how fast you are going, how
+high you are, and what is worth stopping for nearby.
 
 **Support email:** [playmine.support@gmail.com](mailto:playmine.support@gmail.com)
 We read every message and normally reply within two business days.
 
-**Privacy policy** — the two apps are built differently and contact different services, so each
-has its own:
-- **iPhone:** <https://avbr07.github.io/FindMyLocation-PrivacyPolicy-iOS/>
-- **Android:** <https://avbr07.github.io/FindMyLocation-PrivacyPolicy/>
+**Privacy policy:** <https://avbr07.github.io/FindMyLocation-PrivacyPolicy-iOS/>
 
 ---
 
